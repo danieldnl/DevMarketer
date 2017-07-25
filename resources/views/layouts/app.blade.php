@@ -38,7 +38,7 @@
                                 <li><a href="#"><i class="fa fa-fw fa-user-circle-o m-r-5"></i>Profile</a></li>
                                 <li><a href="#"><i class="fa fa-fw fa-bell m-r-5"></i>Notifications</a></li>
                                 <li><a href="#"><i class="fa fa-fw fa-cog m-r-5"></i>Settings</a></li>
-                                <li class="separator"></li>
+                                <li class="seperator"></li>
                                 <li><a href="#"><i class="fa fa-fw fa-sign-out m-r-5"></i>Logout</a></li>
                             </ul>
                         </button>

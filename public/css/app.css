@@ -3176,7 +3176,7 @@ th {
 }
 
 html {
-  background-color: #fff;
+  background-color: whitesmoke;
   font-size: 16px;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -13605,6 +13605,10 @@ button.nav-item.is-active {
 
 .nav-right {
   overflow: inherit;
+}
+
+body {
+  overflow-y: hidden;
 }
 
 .m-t-5 {
