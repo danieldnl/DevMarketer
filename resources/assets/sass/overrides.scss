@@ -1,3 +1,11 @@
+.is-muted {
+  color: $grey-light !important;
+}
+
+a.is-muted:hover {
+  color: $grey !important;
+}
+
 /* ========================================
    =========== Dropdown Override ==========
    ======================================== */
@@ -106,4 +114,5 @@ button.nav-item {
 
 body {
   overflow-y: hidden;
+  overflow-x: hidden;
 }
