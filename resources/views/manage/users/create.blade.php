@@ -31,7 +31,7 @@
 						<label for="password" class="label">Password</label>
 						<p class="control">
 							<input type="text" class="input" name="password" id="password" v-if="!auto_password" placeholder="Manually give a password to this user">
-							<b-checkbox name="auto_generate" class="m-t-15" v-model="auto_password">Auto Generate Password</b-checkbox>	
+							<b-checkbox name="auto_generate" class="m-t-15" v-model="auto_password">Auto Generate Password</b-checkbox>
 						</p>
 					</div>
 
